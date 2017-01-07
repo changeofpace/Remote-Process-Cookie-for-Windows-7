@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remote Process Cookie for Windows 7", "Remote Process Cookie for Windows 7\Remote Process Cookie for Windows 7.vcxproj", "{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cookie Test", "Cookie Test\Cookie Test.vcxproj", "{80F0A05A-43B9-42D1-B25E-26871153993B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Debug|Win32.Build.0 = Debug|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Debug|x64.ActiveCfg = Debug|x64
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Debug|x64.Build.0 = Debug|x64
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Release|Win32.ActiveCfg = Release|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Release|Win32.Build.0 = Release|Win32
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Release|x64.ActiveCfg = Release|x64
+		{F75DF85F-6C27-40E6-BB82-36A1ABAAAAE6}.Release|x64.Build.0 = Release|x64
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Debug|Win32.Build.0 = Debug|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Debug|x64.ActiveCfg = Debug|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Release|Win32.ActiveCfg = Release|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Release|Win32.Build.0 = Release|Win32
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Release|x64.ActiveCfg = Release|x64
+		{80F0A05A-43B9-42D1-B25E-26871153993B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
